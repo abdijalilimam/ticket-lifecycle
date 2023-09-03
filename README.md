@@ -31,7 +31,7 @@ Depending on the organization higher-ups or managers are usually the ones who as
 </p>
 <br />
 <p>
-In the below example, we are setting the priority level of the ticket. We with an issue that can effect an entire portion of the business. We have changed the SLA plan and assigned the ticket to a top level technician. In some ticketing system customers can set their own SLA plans.
+In the below example, we are setting an emergency priority level for the ticket. The reason for that is because the issue affects an entire portion of the business. So now we have Since this is an urgent situation we changed the Service level agreement plan (SLA) and assigned the ticket to higher-up agents.
 </p>
 <p>
 <img width="432" alt="image" src="https://github.com/abdijalilimam/ticket-lifecycle/assets/137457871/3adcec49-2e05-4068-a566-5d91d2235755">
